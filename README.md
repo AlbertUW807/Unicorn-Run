@@ -12,5 +12,5 @@ https://processing.org/download/
 
 #### References:
 ```
-T-Rex Run : https://elgoog.im/t-rex/
+T-Rex Run : <https://elgoog.im/t-rex/>
 ```
