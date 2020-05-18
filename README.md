@@ -9,3 +9,8 @@ https://processing.org/download/
 
 - Personal version of Google's T-Rex run, by controlling the unicorn character by machine learning Speech Commands model!
 - Made with Processing Development Environment (PDE).
+
+#### References:
+```
+T-Rex Run : https://elgoog.im/t-rex/
+```
